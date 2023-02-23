@@ -4,7 +4,7 @@ cask "trackpadair" do
 
   url "https://github.com/NakaokaRei/TrackpadAir/releases/download/#{version}/TrackpadAir.zip"
   name "TrackadAir"
-  desc "TrackpadAir is macOS app that allows you to operate without a trackpad"
+  desc "Is app that allows you to operate without a trackpad"
   homepage "https://github.com/NakaokaRei/TrackpadAir"
 
   app "TrackpadAir.app"
